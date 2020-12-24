@@ -9,5 +9,6 @@ package com.yidu.bean;
 public class Like {
     public static void main(String[] args) {
         System.out.println("Like");
+        System.out.println("sd");
     }
 }
